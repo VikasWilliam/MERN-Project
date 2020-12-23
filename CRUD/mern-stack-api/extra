@@ -1,0 +1,17 @@
+MongoDb:
+Start mongo Demon: mongod 
+start mong shell: mongo 
+show db: show dbs
+
+Node:
+creation of node Project: npm init 
+set the configuration the package.json is created
+npm i -s mongoose express body-parser cors
+
+
+
+
+
+--to install nodemon to run db .js:
+npm install -g --force nodemon
+to run-npx nodemon db.js in terminal
